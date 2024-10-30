@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @UselessSuke
-- 👀 I’m interested in Your Mommy
-- 🌱 I’m currently learning Your Mommy
-- 💞️ I’m looking to collaborate on Your Mommy
-- 📫 How to reach me through your Mommy
+
